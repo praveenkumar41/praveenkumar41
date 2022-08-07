@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenkumar41" alt="praveenkumar41" /></a> </p>
 
-- 🔭 I’m currently working on **Human activity prediction using Graph Neural Network**
-
 - 👨‍💻 All of my projects are available at [praveenkumar41.github.io](praveenkumar41.github.io)
 
 - 📫 How to reach me **praveenkumar100501@gmail.com**
